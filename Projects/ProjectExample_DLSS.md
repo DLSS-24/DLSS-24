@@ -33,10 +33,6 @@ Students will use the "EuroSAT" dataset available on [Tensorflow Datasets](https
 - **Visualization**: Create visual comparisons of urban development over time, highlighting environmental impacts.
 - **Policy Recommendations**: Based on findings, suggest urban planning strategies to mitigate negative environmental impacts.
 
-### 4. Presentation and Report Writing
-- **Final Presentation**: Develop a presentation that outlines the project's scope, methodology, findings, and implications.
-- **Report**: Write a comprehensive report that details every step of the project, including code, methodologies, findings, and future research directions.
-
 ## Expected Outcomes
 This project aims to enhance students' understanding of CNN applications in real-world scenarios, focusing on environmental studies and urban planning. Students will gain practical skills in handling image data, training deep learning models, and interpreting the results to make informed conclusions about urban environmental changes.
 
